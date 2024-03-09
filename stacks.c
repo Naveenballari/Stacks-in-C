@@ -1,3 +1,4 @@
 int main(){
-    printf("Stacks");
+    printf("Stacks\n");
+    printf("New stack");
 }
