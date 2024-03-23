@@ -4,6 +4,7 @@ Stacks are a fundamental data structure in computer science that follows the Las
 
 In C, stacks can be implemented using arrays or linked lists. Arrays offer simplicity and constant-time access to elements, while linked lists provide flexibility in terms of dynamic memory allocation and size management. In this file stacks is implemented using arrays.<br>
 
+## Functionalities
 The fundamental operations by stack include:<br>
 
 Push: Adds an element to the top of the stack.<br>
