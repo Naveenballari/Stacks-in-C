@@ -7,10 +7,13 @@ In C, stacks can be implemented using arrays or linked lists. Arrays offer simpl
 ## Functionalities
 The fundamental operations by stack include:<br>
 
-Push: Adds an element to the top of the stack.<br>
-Pop: Removes the top element from the stack.<br>
-Peek: Returns the value of the top element without removing it.<br>
-isEmpty: Checks if the stack is empty.<br>
-isFull: Checks if the stack is full.<br>
-Display: Displays the stack.<br>
+|Sl.no|Function|Description|
+|-----|--------|-----------|
+|01|Push()|Adds an element to the top of the stack|
+|02|Pop()|Removes the top element from the stack|
+|03|Peek()|Returns the value of the top element without removing it|
+|04|isEmpty()|Checks if the stack is empty|
+|05|isFull()|Checks if the stack is full|
+|06|Display()|Displays the stack|
+<br>
 These operations enable efficient manipulation of stack elements and facilitate various stack-based applications.<br>
